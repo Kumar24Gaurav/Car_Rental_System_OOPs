@@ -1,1 +1,2 @@
-# Car_Rental_System_OOPs
+# Car Rental System using Java OOP Principles 
+The Car Rental System is designed using the four pillars of Object-Oriented Programming (OOP) in Java: Encapsulation, Abstraction, Inheritance, and Polymorphism. This system allows users to rent cars efficiently while managing available inventory, bookings, and customer details. This design ensures that the system is scalable, maintainable, and easy to extend with additional features in the future.
